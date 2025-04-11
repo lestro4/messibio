@@ -21,16 +21,6 @@ body{
     background-color: grey;
 }
 
-.mavitext{
-     color: aqua;
-    font-family: "Winky Rough", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700px;
-    font-style: normal;
-    text-shadow: 0px 0px 6px black;
-    margin-left: 15px;
-}
-
 .messibaslik{
     display: flex;
     justify-content: center;
